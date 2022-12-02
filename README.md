@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an Indonesian living in Surabaya. 
+
+- 🔭 I’m currently working as Software Engineer (Data)
+- 🌱 I’m currently learning 日本語
+- 👯 I’m looking to collaborate on any interesting Golang project
+- 😄 I publish a technical post every week on https://medium.com/@oktavianidewi 
+- 📫 How to reach me: https://www.linkedin.com/in/dewi-nurfitri-oktaviani-6b450b22/

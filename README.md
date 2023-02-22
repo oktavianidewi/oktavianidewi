@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I am an Indonesian living in Surabaya. 
 
-- 🔭 I’m a Software Engineer (Data)
+- 🔭 I’m a Data/Software Engineer (Data)
 - 🌱 During my free time I’m learning 日本語 and practising leetcode
-- 👯 I’m looking to collaborate on any interesting Golang project!
+- 👯 I’m looking to collaborate on any interesting Data Engineering project!
 - 😄 I publish any techical post every week on https://medium.com/@oktavianidewi 
 - 📫 How to reach me: https://www.linkedin.com/in/dewi-nurfitri-oktaviani-6b450b22/
